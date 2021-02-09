@@ -31,7 +31,7 @@ $num=mysqli_num_rows($res);
 if($num>0)
 {
 echo "<div>
-<table class='table table-dark' border=1>
+<table class='table table-bordered' border=1>
 <tr>
 <th><h2>E-Curfew Pass</h2></th>
 </tr>
