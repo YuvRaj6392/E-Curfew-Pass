@@ -1,9 +1,5 @@
 <?php
-$servername="localhost";
-$username="root";
-$passwd="";
-$database="Project";
-$conn=mysqli_connect($servername,$username,$passwd,$database);
+require "db.php";
 if((isset($_POST['name']))&&(isset($_POST['password']))&&(isset($_POST['password1'])))
 {
 $name=$_POST['name'];
