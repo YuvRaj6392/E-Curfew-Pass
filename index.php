@@ -120,7 +120,7 @@ Loading...
 </div>
 </div>
 <h6 style=color:grey;font-style:lighter>Have'nt made your Id yet? then 
-<a href="createuser.php" class="btn btn-primary">SignUp</a></h6>
+<a href="createuser.php" class="btn btn-primary">Signup</a></h6>
 </div>
 <div class="row footer mt-3">
 <h6>©copyright 2021-2023</h6>
