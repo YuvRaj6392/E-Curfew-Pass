@@ -16,7 +16,7 @@ if((isset($_POST['name']))&&(isset($_POST['password'])))
 $name=$_POST['name'];
 $password=$_POST['password'];
 $pass=htmlspecialchars($password,ENT_QUOTES);
-if(($name=="yuvraj123")&&($pass=="@kgggdkp"))
+if(($name=="yuvraj123")&&($pass=="@realmadrid"))
 {
 session_start();
 $_SESSION['nam']="yuvraj123";
